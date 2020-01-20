@@ -8,7 +8,7 @@
 | THU | 1 | PRESENTATION SKILLS |  |
 | FRI | 1 | PRESENTATION SKILLS | [PRESENTATION HERE](https://github.com/ahmy22/novus/blob/master/stuff/presentation/novus.pptx) |
 |  |  |  |  |
-| MON | 2 |  |  |
+| MON | 2 | IF/ELSE & FOR LOOPS |  |
 | TUE | 2 |  |  |
 | WED | 2 |  |  |
 | THU | 2 |  |  |
