@@ -10,6 +10,6 @@
 |  |  |  |  |
 | MON | 2 | BASIC JAVA (IF/ELSE AND FOR LOOP) | [HW TASK HERE](https://github.com/ahmy22/novus/blob/master/novus/src/novus/days.java) |
 | TUE | 2 | 4 PILLARS OF OOP |  |
-| WED | 2 |  |  |
+| WED | 2 | TEST |  |
 | THU | 2 |  |  |
 | FRI | 2 |  |  |
