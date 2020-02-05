@@ -12,6 +12,9 @@
 | WED | 2 | TEST |  |
 |  |  |  |  |
 | MON | 3 | TEST/SOFTWARE DEVELOPMENT LIFECYCLE |  |
-| TUE | 3 | TESTING |  |
+| TUE | 3 | TESTING THEORY |  |
 | WED | 3 | BAE SYSTEMS |  |
+|  |  |  |  |
+| MON | 4 | TESTING THEORY |  |
+| WED | 4 | JENKINS |  |
 |  |  |  |  |
