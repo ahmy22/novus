@@ -18,6 +18,6 @@
 | MON | 4 | TESTING THEORY |  |
 | WED | 4 | JENKINS |  |
 |  |  |  |  |
-| MON | 5 | TEST/GIT |  |
-| WED | 5 | JIRA | EXERCISE(https://learngitbranching.js.org/?locale=en_US) |
+| MON | 5 | TEST/GIT | [EXERCISE](https://learngitbranching.js.org/?locale=en_US) |
+| WED | 5 | JIRA |  |
 |  |  |  |  |
