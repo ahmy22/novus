@@ -21,3 +21,5 @@
 | MON | 5 | TEST/GIT | [EXERCISE](https://learngitbranching.js.org/?locale=en_US) |
 | WED | 5 | JIRA |  |
 |  |  |  |  |
+| MON | 6 | GIT/SOAP |  |
+|  |  |  |  |
