@@ -22,4 +22,17 @@
 | WED | 5 | JIRA |  |
 |  |  |  |  |
 | MON | 6 | GIT/SOAP |  |
+| TUE | 6 | SOAP/REST |  |
 |  |  |  |  |
+| MON | 7 | SELENIUM |  |
+| TUE | 7 | SOAP/REST |  |
+| |  |  |  |
+| MON | 8 | SELENIUM |  |
+| TUE | 8 |  |  |
+| WED | 8 |  |  |
+| THU | 8 |  |  |
+
+
+
+
+
