@@ -28,7 +28,7 @@
 | TUE | 7 | SOAP/REST |  |
 | |  |  |  |
 | MON | 8 | SELENIUM |  |
-| TUE | 8 |  |  |
+| TUE | 8 | TESTNG | [EXAMPLE](https://github.com/ahmy22/novus/tree/master/testNG) |
 | WED | 8 |  |  |
 | THU | 8 |  |  |
 
