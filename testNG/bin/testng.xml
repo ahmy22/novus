@@ -5,6 +5,7 @@
    <test name = "test1">
       <classes>
          <class name = "TestEmployeeDetails"/>
+         <class name = "day1"/>
       </classes>
    </test>
 </suite>
