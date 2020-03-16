@@ -22,8 +22,13 @@ public class driver {
 		driver.findElement(By.xpath("//input[@name='email']")).sendKeys("temp@temp.com");
 		driver.findElement(By.xpath("//input[@name='password']")).sendKeys("temp");
 		driver.findElement(By.xpath("//input[@value='Login']")).click();
-
 		
+		//Add item
+		driver.findElement(By.xpath("//a[@href='http://tutorialsninja.com/demo/index.php?route=product/category&path=25']")).click();;
+		driver.findElement(By.xpath("//a[@href='http://tutorialsninja.com/demo/index.php?route=product/category&path=25_28']")).click();;
+		driver.findElement(By.xpath("//input[@onclick='cart.add('33', '1');']")).click();
+		driver.findElement(By.xpath("//a[@href='http://tutorialsninja.com/demo/index.php?route=product/product&path=25_28&product_id=33']")).click();;
+
 	}
 	    
 	
