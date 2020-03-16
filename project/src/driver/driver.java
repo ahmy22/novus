@@ -12,9 +12,9 @@ public class driver {
 		WebDriver driver;			
 		
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\skw9h\\Downloads\\chromedriver_win32\\chromedriver.exe");
-	   	driver= new ChromeDriver();						
-	    driver.manage().window().maximize();			
-		driver.get("http://tutorialsninja.com/demo/index.php?route=common/home");
+	   	driver= new ChromeDriver();
+	   	driver.manage().window().maximize();
+	   	driver.get("http://tutorialsninja.com/demo/index.php?route=common/home");
 		
 		//Login
 		driver.findElement(By.xpath("//a[@href='http://tutorialsninja.com/demo/index.php?route=account/account']")).click();;
