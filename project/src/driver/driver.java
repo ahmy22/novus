@@ -24,11 +24,13 @@ public class driver {
 		driver.findElement(By.xpath("//input[@value='Login']")).click();
 		
 		//Add item
-//		driver.findElement(By.xpath("//a[@href='http://tutorialsninja.com/demo/index.php?route=product/category&path=25']")).click();;
-//		driver.findElement(By.xpath("//a[@href='http://tutorialsninja.com/demo/index.php?route=product/category&path=25_28']")).click();;
-//		driver.findElement(By.xpath("//a[@href='http://tutorialsninja.com/demo/index.php?route=product/product&path=25_28&product_id=33']")).click();;
+		driver.findElement(By.xpath("//a[@href='http://tutorialsninja.com/demo/index.php?route=product/category&path=25']")).click();;
+		driver.findElement(By.xpath("//a[@href='http://tutorialsninja.com/demo/index.php?route=product/category&path=25_28']")).click();;
+		driver.findElement(By.xpath("//a[@href='http://tutorialsninja.com/demo/index.php?route=product/product&path=25_28&product_id=33']")).click();;
 //		driver.findElement(By.xpath("//input[@data-loading-text='Loading...']")).click();
+//		driver.findElement(By.xpath("//input[@class='btn btn-primary btn-lg btn-block']")).click();
 
+		
 		//Wish list
 //		driver.findElement(By.xpath("//a[@href='http://tutorialsninja.com/demo/index.php?route=product/category&path=25']")).click();;
 //		driver.findElement(By.xpath("//a[@href='http://tutorialsninja.com/demo/index.php?route=product/category&path=25_28']")).click();;
@@ -36,9 +38,9 @@ public class driver {
 //		driver.findElement(By.xpath("//input[@onclick='wishlist.add('33');']")).click();
 		
 		//Newsletter
-		driver.findElement(By.xpath("//a[@href='http://tutorialsninja.com/demo/index.php?route=account/newsletter']")).click();;
-		driver.findElement(By.xpath("//input[@value='1']")).click();
-		driver.findElement(By.xpath("//input[@value='Continue']")).click();
+//		driver.findElement(By.xpath("//a[@href='http://tutorialsninja.com/demo/index.php?route=account/newsletter']")).click();;
+//		driver.findElement(By.xpath("//input[@value='1']")).click();
+//		driver.findElement(By.xpath("//input[@value='Continue']")).click();
 
 
 		
